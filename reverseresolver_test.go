@@ -20,7 +20,7 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethclient"
 	"github.com/stretchr/testify/require"
-	ens "github.com/wealdtech/go-ens/v3"
+	ens "github.com/vinhnd2010/go-ens/v3"
 )
 
 // TestReverseResolve tests the reverse resolution functionality.

@@ -22,9 +22,9 @@ import (
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/wealdtech/go-ens/v3/contracts/auctionregistrar"
-	"github.com/wealdtech/go-ens/v3/contracts/registry"
-	"github.com/wealdtech/go-ens/v3/util"
+	"github.com/vinhnd2010/go-ens/v3/contracts/auctionregistrar"
+	"github.com/vinhnd2010/go-ens/v3/contracts/registry"
+	"github.com/vinhnd2010/go-ens/v3/util"
 )
 
 // Registry is the structure for the registry contract
